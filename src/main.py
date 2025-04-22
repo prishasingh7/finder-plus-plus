@@ -1,7 +1,7 @@
 import os
 import argparse
 from pathlib import Path
-from fuzzy import fuzzy_search
+from src.fuzzy import fuzzy_search
 
 def search_files(directory, query, use_fuzzy=False, threshold=70):
     """Search for files in a directory, optionally using fuzzy matching."""
