@@ -10,3 +10,13 @@ NLP based queries
 SQLite based temporary query caching
 
 
+## License (Research Paper)
+
+The research paper "Study of Intelligent File Search Systems Using Natural Language Processing and Machine Learning Techniques" is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+You may share the paper with proper attribution. Commercial use, modifications, and derivative works are prohibited without explicit permission.
+
+[Learn more about CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+
