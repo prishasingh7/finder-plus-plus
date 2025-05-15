@@ -1,7 +1,7 @@
 import argparse
 import time
-from .main import search_files
-from .utils import get_file_metadata, format_size, format_time
+from main import search_files
+from utils import get_file_metadata, format_size, format_time
 
 def main():
     parser = argparse.ArgumentParser(description="File Finder++")
@@ -24,6 +24,7 @@ def main():
 
     elapsed = end_time - start_time
     print(f"\n⏱️  Search completed in {elapsed:.3f}s")
+    
 
 if __name__ == "__main__":
     main()
