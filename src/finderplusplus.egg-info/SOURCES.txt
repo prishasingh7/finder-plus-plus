@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/finderplusplus.egg-info/PKG-INFO
+src/finderplusplus.egg-info/SOURCES.txt
+src/finderplusplus.egg-info/dependency_links.txt
+src/finderplusplus.egg-info/entry_points.txt
+src/finderplusplus.egg-info/requires.txt
+src/finderplusplus.egg-info/top_level.txt
