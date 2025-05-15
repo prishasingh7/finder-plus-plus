@@ -1,5 +1,5 @@
 import unittest
-from .fuzzy import fuzzy_search  # Importing the function to test
+from fuzzy import fuzzy_search  # Importing the function to test
 
 class TestFuzzySearch(unittest.TestCase):
     """Unit tests for the fuzzy_search function."""
